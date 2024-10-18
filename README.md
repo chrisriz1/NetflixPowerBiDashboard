@@ -5,10 +5,11 @@ This repository contains an in-depth analysis of Netflix subscription data using
 
 <ins>**Project Overview**</ins>
 
-**Objective**
+**Objective**:
 The goal of this project is to analyze Netflix's subscription data to provide insights on user engagement, revenue generation, and customer demographics. Using Power BI, we have visualized key metrics to help stakeholders make data-driven decisions.
 
 <ins>**Data Source**</ins>
+
 The dataset used in this analysis contains the following columns:
 - SubscriptionType: The type of Netflix subscription (e.g., Basic, Standard, Premium)
 - MonthlyRevenue: Revenue generated per user per month
