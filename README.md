@@ -39,11 +39,13 @@ The dataset used in this analysis contains the following columns:
 - Customer Demographics: A demographic breakdown of the user base, focusing on gender, age, and subscription type.
   
 <ins>**Project Features**</ins>
+
 Power BI Dashboards: Interactive dashboards to explore data dynamically with filters and slicers for subscription types, revenue, user demographics, and generational categories.
 Generational Analysis: Categorized users into generations based on their age to uncover trends in behavior and preferences within different generational groups.
 Data Transformation: Data cleaning and formatting, such as reformatting date columns, calculating subscription duration, and creating custom fields for analysis.
 
 <ins>**Tools Used**</ins>
+
 Microsoft Power BI: For data visualization and interactive dashboards.
 Microsoft Excel: Used for initial data cleaning and preprocessing.
 GitHub: To version control and share the analysis.
