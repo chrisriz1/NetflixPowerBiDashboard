@@ -4,6 +4,7 @@
 This repository contains an in-depth analysis of Netflix subscription data using Power BI. The project aims to uncover insights about subscription types, monthly revenue trends, and user behavior based on various attributes such as subscription duration, device usage, geographic location, and generational categories.
 
 <ins>**Project Overview**</ins>
+
 **Objective**
 The goal of this project is to analyze Netflix's subscription data to provide insights on user engagement, revenue generation, and customer demographics. Using Power BI, we have visualized key metrics to help stakeholders make data-driven decisions.
 
