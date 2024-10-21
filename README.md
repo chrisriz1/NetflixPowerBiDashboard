@@ -46,8 +46,8 @@ Data Transformation: Data cleaning and formatting, such as reformatting date col
 
 <ins>**Tools Used**</ins>
 
-<ins>Microsoft Power BI:</ins> For data visualization and interactive dashboards.
+**Microsoft Power BI:** For data visualization and interactive dashboards.
 
-<ins>Microsoft Excel:</ins> Used for initial data cleaning and preprocessing.
+**Microsoft Excel:** Used for initial data cleaning and preprocessing.
 
-<ins>GitHub:</ins> To version control and share the analysis.
+**GitHub:** To version control and share the analysis.
